@@ -1,27 +1,8 @@
-Ensemble means many
-Bagging - Homogenous weak learners learn parallel splits data into samples and we keep on building model on different samples
-Boosting - Homogenous weak learners learn sequence, and build model first and then second model try to learn something from 1st, 3rd something from 2nd and so on
-Stacking - Heterogenous weak learners and we will build and 2nd level alogorithm which combines these three
+Text mining:
+R:
+We will do clustering on dtm and find clusters and then postive,negative word clouds.
 
-Bagging variance prob reduction 
-Stacking and boosting try and reduce biased prob
-Learning_rate=1 -> adaboose -> completely learn from previous model
-Votingclassifier is the second level algorithm that combines hetergenous models
+Set will remove the repeated values from list
 
-
-Textmining:
-Unstructured data processing
-Bag of words
-Filler words or joiner words are not required - and or he she it etc
-Stem words - jumping, jumped will be considered as JUMP
-
-DTM - Document term matrix
-TDM - Term document matrix - Transpose of DTM
-
-TFIDF - Term frequency Inverse document frequency = TF/DF; TF= Term frequency, DF = document frequency
-TFID = TF/DF brings the data to reduced scale
-
-
-Python:
-random_state parameter of train_test_split
-Shashkphere - as you like it
+TODO:
+How web scrapping works
