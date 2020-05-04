@@ -1,8 +1,9 @@
-Text mining:
-R:
-We will do clustering on dtm and find clusters and then postive,negative word clouds.
+Python code for text mining:
+Beautiful soap is good package for web scrapping
+We are not doing it with dtm or tdm appraoch. We are kind of doing the same thing without deleting duplicates
 
-Set will remove the repeated values from list
+
 
 TODO:
-How web scrapping works
+Clustering
+word cloud residuals
